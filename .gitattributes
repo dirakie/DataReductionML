@@ -1,0 +1,1 @@
+datasets/SDSS17/* filter=lfs diff=lfs merge=lfs -text
